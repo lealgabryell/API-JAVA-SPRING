@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "programmingArea": "Desenvolvimento de Software",
+        "imageUrl": "https://example.com/clean_code.jpg",
+        "publisher": "Prentice Hall",
+        "publicationYear": 2008,
+        "isbn": "978-0132350884"
+    },
+    {
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "programmingArea": "Design de Software",
+        "imageUrl": "https://example.com/design_patterns.jpg",
+        "publisher": "Addison-Wesley",
+        "publicationYear": 1994,
+        "isbn": "978-0201633610"
+    },
+    {
+        "title": "The Pragmatic Programmer: Your Journey Through the Code",
+        "author": "Andrew Hunt, David Thomas",
+        "programmingArea": "Desenvolvimento de Software",
+        "imageUrl": "https://example.com/pragmatic_programmer.jpg",
+        "publisher": "Addison-Wesley",
+        "publicationYear": 1999,
+        "isbn": "978-0201616224"
+    },
+    {
+        "title": "Introduction to the Theory of Computation",
+        "author": "Michael Sipser",
+        "programmingArea": "Teoria da Computação",
+        "imageUrl": "https://example.com/theory_of_computation.jpg",
+        "publisher": "Cengage Learning",
+        "publicationYear": 2012,
+        "isbn": "978-1133187790"
+    },
+    {
+        "title": "Effective Java",
+        "author": "Joshua Bloch",
+        "programmingArea": "Java",
+        "imageUrl": "https://example.com/effective_java.jpg",
+        "publisher": "Addison-Wesley",
+        "publicationYear": 2018,
+        "isbn": "978-0134685991"
+    },
+    {
+        "title": "You Don't Know JS: Scope & Closures",
+        "author": "Kyle Simpson",
+        "programmingArea": "JavaScript",
+        "imageUrl": "https://example.com/you_dont_know_js.jpg",
+        "publisher": "O'Reilly Media",
+        "publicationYear": 2014,
+        "isbn": "978-1491904244"
+    }
+]
